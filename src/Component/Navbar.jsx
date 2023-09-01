@@ -73,7 +73,7 @@ const Navbar = () => {
             {/* <!--top header part end --> */}
 
             {/* <!-- header part start --> */}
-            <section className="bg-primary pt-[30px] pb-[31px]">
+            <section className="bg-primary pt-[30px] pb-[26px]">
                 <div className="md:flex items-center max-w-container justify-between md:mx-auto  ">
                     <div className=" flex items-center justify-between mx-3 ">
                         <div className='flex mr-2'>
